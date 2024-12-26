@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-// #include <stdbool.h> | No Use For It
+// #include <stdbool.h> | No Use For It Here
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
